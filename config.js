@@ -7,3 +7,5 @@ const config = {
 };
 
 export default config;
+git clone https://github.com/UseInterstellar/Interstellar
+cd Interstellar
